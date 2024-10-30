@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# If you are using Django migrations
+*.mo
+*.pyo
+
+# Django migrations
+**/migrations/
+
+# Logs
+*.log
+*.txt
+
+# Virtual environment
+venv/
+.env
+
+# Database
+*.db
+
+# Static files
+/static/
+staticfiles/
+
+# Media files
+/media/
+assets/
+
+# Local settings
+local_settings.py
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
